@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Aryan&#39;s website</title>
+    <link>https://arry511.github.io/home/</link>
+    <description>Recent content in Homes on Aryan&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://arry511.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://arry511.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://arry511.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hi!   I&#39;m Aryan.</title>
+      <link>https://arry511.github.io/home/hero/</link>
+      <pubDate>Sun, 25 Nov 2018 10:19:00 +0530</pubDate>
+      
+      <guid>https://arry511.github.io/home/hero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://arry511.github.io/home/about/</link>
+      <pubDate>Tue, 09 Apr 2019 09:30:00 +0530</pubDate>
+      
+      <guid>https://arry511.github.io/home/about/</guid>
+      <description>Biography I&amp;rsquo;m a Fullstack System design engineer. I work on things related to electronics, such as circuit designing, digital designing, verilog coding, designing products which can house these beautiful electronics.. yeah that&amp;rsquo;s what I do as professional. As a hobbbyist I do much more than these things. As we all know necessity is the mother of invention, I strongly believe that we engineers are here to solve the real life problems not to create one.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://arry511.github.io/home/skills/</link>
+      <pubDate>Sun, 25 Nov 2018 10:45:00 +0530</pubDate>
+      
+      <guid>https://arry511.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://arry511.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arry511.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://arry511.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://arry511.github.io/home/posts/</guid>
+      <description> A Free workshop on Open source electronics - 21 July 2019 I conducted a workshop on open source electronics to 11th standard students at my almamater Viveka Pre University College, Kota, Udupi. The response was very good, students started giving life to their innovative ideas with the help of arduino microcontroller. Some even won awards at project exhibition competitions organised by nearby engineering colleges.
+LoRa - Long range Communication for IoT  Traction: My work got featured in Deccan Herald News Paper </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://arry511.github.io/home/projects/</link>
+      <pubDate>Wed, 05 Dec 2018 01:42:27 +0530</pubDate>
+      
+      <guid>https://arry511.github.io/home/projects/</guid>
+      <description>VLIW ARCHITECTURE DESIGN IMPLEMENTATION Apr 2017 – May 2017   Designed VLIW architecture supporting multiple formats of instructions. Modified the design for Hazard Detection and Forwarding Units for the multiple set of instructions involved. Performed behavioral simulations and verification of the design using Xilinx ISE.   FPGA DESIGN Jan 2017 - Mar 2017   Designed and implemented an FPGA which utilizes a 4 input LUT and 5 bit bidirectional channel width in Verilog HDL.</description>
+    </item>
+    
+    <item>
+      <title>Extra Curricular Activities</title>
+      <link>https://arry511.github.io/home/curricular/</link>
+      <pubDate>Wed, 05 Dec 2018 01:42:27 +0530</pubDate>
+      
+      <guid>https://arry511.github.io/home/curricular/</guid>
+      <description>  Core member of Bits Goa Basketball Team, won runner up at Bits Hyderabad College Fest. Represented the college in various Goa Tournaments. Passionate Ultimate Frisbee Player   </description>
+    </item>
+    
+    <item>
+      <title>Position of Responsibilty</title>
+      <link>https://arry511.github.io/home/responsibility/</link>
+      <pubDate>Wed, 05 Dec 2018 01:42:27 +0530</pubDate>
+      
+      <guid>https://arry511.github.io/home/responsibility/</guid>
+      <description> Event Manager, Spree 2016   Worked directly with Event Management and organised the Basketball matches in College fest - Spree 2016. Formulated effective management of resources and scheduling of matches.   </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://arry511.github.io/home/contact/</link>
+      <pubDate>Tue, 09 Apr 2019 01:48:00 +0530</pubDate>
+      
+      <guid>https://arry511.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
